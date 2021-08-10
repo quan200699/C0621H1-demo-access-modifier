@@ -5,4 +5,8 @@ public class DemoAccessModifier1 {
     protected int b;
     int c; //Access level là default
     private int d;
+
+    static class A {
+
+    }
 }
